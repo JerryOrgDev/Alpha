@@ -3,4 +3,5 @@ class DoomOld:
         self._ack = True
 
     def activate(self):
+        #hi
         return self._ack
